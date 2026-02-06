@@ -209,20 +209,3 @@ a principled foundation for language growth
 By grounding a systems programming language in a formal grammatical tradition,
 Dhātu-Bhāṣā explores a new direction in programming language design.
 
-
----
-
-## ✅ What to do now
-
-1. Save this file as:
-
-
-docs/grammar.md
-
-2. Commit and push:
-
-```bash
-git add docs/grammar.md
-git commit -m "Add grammar and linguistic foundations documentation"
-git push origin main
-
